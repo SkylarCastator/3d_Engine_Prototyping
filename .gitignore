@@ -1,3 +1,9 @@
 directx_sample_project_v1/directx_sample_project_v1/Debug/
 directx_sample_project_v1/.vs/
 directx_sample_project_v1/Debug/
+directx_sample_project_v2/.vs/
+directx_sample_project_v2/directx_sample_project_v1/Debug/directx_sample_project_v1.vcxproj.FileListAbsolute.txt
+directx_sample_project_v2/directx_sample_project_v1/Debug/
+*.vcxproj
+*.filters
+*.user
